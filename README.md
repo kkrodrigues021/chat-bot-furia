@@ -1,6 +1,5 @@
 # 🐺 FURIA FanBot - Chatbot para Torcedores
 
-![FURIA Logo](https://upload.wikimedia.org/wikipedia/pt/f/f9/Furia_Esports_logo.png)  
 *Bot não-oficial criado para os fãs da FURIA Esports*
 
 ---
@@ -10,12 +9,6 @@ Chatbot desenvolvido para o processo seletivo da FURIA, proporcionando aos fãs:
 - Informações sobre o time de CS2
 - Agenda de próximos jogos
 - Interação básica via Telegram
-
----
-
-## 🛠 Tecnologias
-
-[![Tech Stack](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ---
 
