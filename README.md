@@ -13,6 +13,12 @@ Chatbot desenvolvido para o processo seletivo da FURIA, proporcionando aos fãs:
 
 ---
 
+## 🛠 Tecnologias
+
+[![Tech Stack](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+---
+
 ## ✨ Funcionalidades Principais
 | Comando       | Ação                                |
 |---------------|-------------------------------------|
