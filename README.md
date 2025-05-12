@@ -65,7 +65,7 @@ Chatbot desenvolvido para o processo seletivo da FURIA, proporcionando aos fãs:
 ## 📜 Licença
 Este projeto é open-source sob licença MIT. Não possui afiliação oficial com a FURIA Esports.
 
-## ✉️ Contato
-Desenvolvido por [Kaiky Rodrigues]
-[kaiky.rodrigues039@gmail.com]
-LinkedIn | GitHub
+## 📬 Contato - Kaiky Rodrigues
+[![Website](https://img.shields.io/badge/Website-4C9F70?style=flat&logo=github&logoColor=white)](https://https://kkrodrigues021.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaikyrodrigues39)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kaiky.rodrigues039@gmail.com)
